@@ -1,2 +1,3 @@
 rm -rf .git build
-rm initial.sh
+mv ./* ..
+rm -rf .
