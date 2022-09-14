@@ -1,5 +1,5 @@
-mkdir include 
-mkdir src
+mkdir ./MiniInitial/include 
+mkdir ./MiniInitial/src
 rm -rf .git build
-mv ./* ..
-rm -rf .
+mv ./MiniInitial/* .
+rm -rf ./MiniInitial
